@@ -81,5 +81,18 @@ The dataset includes:
 
 ---
 
-## 📸 Screenshots
+### 📸 Screenshots
+
+#### 🔐 Login Page
+![Login Page](C:\Users\91834\Downloads\Air_Fare_SS\User_login_page.PNG)
+
+#### 🧾 Predict Data Page
+![Predict Data Page](screenshots/predict_data_page.png)
+
+#### 📊 Predicted Data
+![Predicted Data](screenshots/predicted_data.png)
+
+#### 💬 Feedback Page
+![Feedback Page](screenshots/feedback_page.png)
+
    
