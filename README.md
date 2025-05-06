@@ -84,15 +84,16 @@ The dataset includes:
 ### 📸 Screenshots
 
 #### 🔐 Login Page
-![Login Page](C:\Users\91834\Downloads\Air_Fare_SS\User_login_page.PNG)
+![User_login_page](https://github.com/user-attachments/assets/160129db-8d4c-4872-ac7f-74e9a41f2475)
+
 
 #### 🧾 Predict Data Page
-![Predict Data Page](screenshots/predict_data_page.png)
+![Predict_data_page](https://github.com/user-attachments/assets/e1d8f0e6-9f5a-4239-b56c-9d7b9999daf5)
 
 #### 📊 Predicted Data
-![Predicted Data](screenshots/predicted_data.png)
+![Predicted_data](https://github.com/user-attachments/assets/e5fb4cec-d781-4e3b-b8a7-514159733b6a)
 
 #### 💬 Feedback Page
-![Feedback Page](screenshots/feedback_page.png)
+![Feedback_page](https://github.com/user-attachments/assets/a3fcb440-f488-4088-8f0e-3fecd3272633)
 
    
